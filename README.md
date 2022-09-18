@@ -15,7 +15,6 @@ My name is Rakshith Bellare. I am a Senior Software Engineer with 5 years 5 mont
   * Collaborate with the design team and suggest UX improvements/corrections and provide feedback on design mockups.
   * Improve developer experience by contributing to internal knowledge base, adding code comments and participating in implementation detail discussions.
   * Contributing in resolving technical debt, maintaining high quality code base and providing suggestion to improve the code base.
-  * Building the backend REST API using EXPRESS JS.
   * Building pixel perfect user experience using VUEJS, SAAS and HTML5.
   * Testing and quality assurance of the product.
 
@@ -26,24 +25,27 @@ My name is Rakshith Bellare. I am a Senior Software Engineer with 5 years 5 mont
   4. NUITEQ POLL
 
 🖥 Projects that i have built on my own
-  1. [BROTLI AND GZIP COMPRESSION COMPARISION](https://brotli-gzip.netlify.app)
-  2. [MARRIAGE CERTIFICATE PRINTING](https://rakshith.retool.com/apps/f08519c2-850d-11ec-9a66-9396725e0191/pernekshethra)
-  3. [EXPRESS PUPPETEER PDF GENERATION](https://github.com/RakshithNM/puppeteer-pdf-generation)
-  4. [GAME OF LIFE - Javascript](https://fluffystub.bitbucket.io/)
-  5. [GAME OF LIFE - VueJS](https://gameoflifevuejs.netlify.app/)
-  6. [PERSONAL BLOG](https://blog.rakshithbellare.in/)
-  7. [SPEECH RECOGNITION IMAGE FETCH](https://nuidf.netlify.app/)
-  8. [SPEECH RECOGNITION BALL MOVE](https://nuibc.netlify.app/)
-  9. [BROWSER HAND RECOGNITION](https://handrecognitionbgcolor.netlify.app/)
-  10. [INDIAN UNICORNS](https://unicornsindia.in/)
-  11. [GO LINKED LIST SOLUTIONS](https://github.com/RakshithNM/linkedlistgo)
-  12. [URL SHORTNER](https://radiant-forest-89015.herokuapp.com/)
-  13. [KEYCODE.INFO CLONE](https://infokey.netlify.app/)
-  14. [TABS COMPONENT - Javascript](https://codepen.io/RakshithNM/full/YzYvZpV)
-  15. [ACCORDION COMPONENT - Javascript](https://codepen.io/RakshithNM/full/OJzZvxm)
-  16. [TO DO](https://todosappvuejs.netlify.app/)
+  * [DEPSLO](https://github.com/RakshithNM/depslo)
+  * [COUNTDOWN TIMER](https://countdowntimer-e7e29.web.app/)
+  * [BROTLI AND GZIP COMPRESSION COMPARISION](https://brotli-gzip.netlify.app)
+  * [MARRIAGE CERTIFICATE PRINTING](https://rakshith.retool.com/apps/f08519c2-850d-11ec-9a66-9396725e0191/pernekshethra)
+  * [EXPRESS PUPPETEER PDF GENERATION](https://github.com/RakshithNM/puppeteer-pdf-generation)
+  * [GAME OF LIFE - Javascript](https://fluffystub.bitbucket.io/)
+  * [GAME OF LIFE - VueJS](https://gameoflifevuejs.netlify.app/)
+  * [PERSONAL BLOG](https://blog.rakshithbellare.in/)
+  * [SPEECH RECOGNITION IMAGE FETCH](https://nuidf.netlify.app/)
+  * [SPEECH RECOGNITION BALL MOVE](https://nuibc.netlify.app/)
+  * [BROWSER HAND RECOGNITION](https://handrecognitionbgcolor.netlify.app/)
+  * [INDIAN UNICORNS](https://unicornsindia.in/)
+  * [GO LINKED LIST SOLUTIONS](https://github.com/RakshithNM/linkedlistgo)
+  * [URL SHORTNER](https://radiant-forest-89015.herokuapp.com/)
+  * [KEYCODE.INFO CLONE](https://infokey.netlify.app/)
+  * [TABS COMPONENT - Javascript](https://codepen.io/RakshithNM/full/YzYvZpV)
+  * [ACCORDION COMPONENT - Javascript](https://codepen.io/RakshithNM/full/OJzZvxm)
+  * [TO DO](https://todosappvuejs.netlify.app/)
 
 ⚡️ Highlights
+  * Officially launched [BELLARE GRANTS](https://bellaregrants.netlify.app) initiative.
   * Upgraded the marriage certificate generation to a digital process for a local temple.([know more](https://blog.rakshithbellare.in/posts/projects/certificate/))
   * Submitted 7 of my side projects to the [DUSTY DOMAINS](https://dusty.domains/) initiative which donated 3500$ to charities in 2021 December.
   * Undertook a innovation project at work which led improved the product performance by 35%.
