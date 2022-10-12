@@ -2,12 +2,6 @@
 
 My name is Rakshith Bellare. I am a Senior Software Engineer with 5 years 5 months of experience. I have predominantly worked on web technologies mostly focused on frontend technologies. I am autodidactic, driven and a passionate technologist with great interest in developing user facing software solutions for businesses and classroom. I have worked on products that are currently used in over 70 countries. The purpose of my product development is to greatly enhance collaboration in business and improve learning and teaching efficiency in schools.
 
-🐱 Companies i have worked for and my roles
-  * Senior Software Engineer Level 1, NUITEQ, 2022 January - Present
-  * Senior Software Engineer, NUITEQ, 2021 January - 2021 December
-  * Software Engineer, NUITEQ, 2016 December - 2020 December
-  * Intern, INMOBI, 2016 September - 2016 November
-
 👨🏿‍💻 Things i do on a day to day basis
   * Actively contributing to the web codebase by prototyping new features, resolving technical debt and working on performance improvements.
   * Maintaining high code standards and performing great code reviews by collaborating with teammates.
